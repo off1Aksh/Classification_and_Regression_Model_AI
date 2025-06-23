@@ -65,6 +65,6 @@ This project is intended for educational purposes only.
 Final project developed by:
 - **[Akasha Bin Ali]**  
 - Course: Artificial Intelligence  
-- Institution: [Politeknik Negeri Semarang]
+- Institution: **[Politeknik Negeri Semarang]**
 
 ---
